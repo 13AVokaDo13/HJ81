@@ -8,7 +8,5 @@ package org.example;
         public String surname;
         public boolean subscription;
         public FormDate birthday = new FormDate();
-        public FormDate month = new FormDate();
-        public FormDate year = new FormDate();
     }
 
